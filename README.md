@@ -1,125 +1,81 @@
-# Hi, I'm Abhijith Vadakkedath 👋
+# 👋 Hi, I'm Abhijith Vadakkedath
 
-### GIS Analyst | Remote Sensing | Geospatial Data | Earth Sciences
+🌍 **GIS Analyst | Remote Sensing | Earth Sciences | Geospatial Applications**
 
-I'm a GIS and Remote Sensing professional with **5+ years of experience** working with geospatial data, spatial analysis, remote sensing, cartography, and geospatial product development.
+I work at the intersection of **GIS, remote sensing, Earth observation and environmental applications**, with a focus on turning spatial data into useful maps, analysis and decision-support products.
 
-I hold a **Master's degree in Earth Sciences** and enjoy using geospatial technologies and programming to solve real-world environmental and spatial problems.
+I have **5+ years of experience in GIS and geospatial analysis**, working across environmental assessment, land suitability, land-cover change, disaster assessment, UAV data, satellite imagery and geospatial visualization.
 
----
+## 🔭 What I work on
 
-## 🔭 What I Do
-
-- 🗺️ GIS & Spatial Analysis
-- 🛰️ Remote Sensing & Image Analysis
-- 🌍 Land Suitability & Environmental Mapping
-- 🌱 Land Cover Change Detection
-- 🌊 Geospatial applications for environmental and coastal studies
-- 🚁 UAV mission planning and data analysis
-- 📊 Geospatial data visualization and cartography
-- 🐍 Python-based geospatial workflows and automation
-- 🌐 Web mapping and geospatial data services
-
----
+- 🛰️ Remote sensing & Earth observation
+- 🗺️ GIS & spatial analysis
+- 🌱 Land suitability and environmental assessment
+- 🌍 Land-cover mapping & change detection
+- 🚨 Disaster damage assessment
+- 🚁 UAV data acquisition & analysis
+- 🌊 Coastal, marine & ocean-related geospatial applications
+- 📊 Cartography, visualization & geospatial storytelling
+- 🐍 Python-based geospatial analysis and automation
+- 🌐 Web mapping & geospatial data services
 
 ## 🛠️ Tools & Technologies
 
-### GIS & Remote Sensing
-- ArcGIS Pro
-- QGIS
-- Google Earth Engine
-- ArcGIS API
-- QGIS API
-- GRASS GIS
-- CARIS HIPS & SIPS
-- Mapbox
+**GIS / Remote Sensing**
 
-### Programming & Data
-- Python
-- R
-- Pandas
-- GeoPandas
-- Matplotlib
-- Excel
-- Google Sheets
+`ArcGIS Pro` `QGIS` `Google Earth Engine` `GRASS GIS` `Mapbox` `ArcGIS API` `QGIS API`
 
-### Geospatial Technologies
-- Remote Sensing
-- Spatial Analysis
-- Image Analysis
-- UAV Operations
-- Web Mapping
-- GeoServer
-- Cartography & Map Design
-- Geospatial Data Management
-- Map Projections
+**Programming / Data**
 
-### Remote Sensing Data
-- Multispectral imagery
-- SAR data
-- High-resolution satellite imagery
-- UAV-derived geospatial data
+`Python` `R` `GeoPandas` `Pandas` `Matplotlib` `Excel` `Google Sheets`
 
----
+**Other Geospatial Tools**
 
-## 💼 Experience
+`GeoServer` `CARIS HIPS & SIPS` `JOSM`
 
-**Geo-Spatial Analyst — Auroville Consulting**  
-2024 – Present
+**Data & Methods**
 
-Working on geospatial data analysis, land suitability assessment, land-cover change detection, disaster damage assessment, research, and development of geospatial products.
+`Sentinel-2` `Landsat` `SAR` `UAV` `Multispectral Imagery` `Spatial Analysis` `Image Analysis` `Cartography`
 
-**Subject Expert – Geology, RS & GIS — Canopy Geospatial Solutions**  
-2022 – 2024
+## 🚀 Selected Areas of Work
 
-Worked on UAV mission planning, geological and terrain assessments, UAV data processing, and geospatial analysis.
+### 🌱 Environmental & Land Analysis
+Land suitability assessment, land-cover change detection, environmental monitoring and spatial analysis for sustainable development.
 
-**Associate Geospatial Analyst — AiDash**  
-2022
+### 🛰️ Earth Observation
+Working with multispectral and SAR datasets to extract spatial information and develop analytical workflows.
 
-Worked with high-resolution multispectral and SAR imagery and supported AI-driven geospatial analysis.
+### 🚁 UAV & Terrain Analysis
+UAV mission planning, site inspection, geological/terrain assessment and processing of UAV-derived spatial data.
 
-**GIS Analyst — Deduce Technologies**  
-2021 – 2022
+### 🌊 Marine & Coastal Geospatial Applications
+Interested in applying remote sensing and GIS to coastal environments, ocean observation, fisheries and marine spatial problems.
 
-Worked with ArcGIS, QGIS, JOSM, spatial data digitization, data transformation, and geospatial analysis.
+## 🧪 Scientific Expedition
 
----
+Participated in a geoscientific expedition studying the **Exclusive Economic Zone (EEZ) of India in the Northern Bay of Bengal**, onboard **RV-MGS Sagar**.
 
-## 🌊 Scientific Expedition
-
-Participated in a geoscientific expedition to study the **Exclusive Economic Zone (EEZ) of India in the Northern Bay of Bengal**, onboard **RV-MGS Sagar**.
-
----
-
-## 🎓 Education
+## 🎓 Background
 
 **M.Sc. Earth Sciences**  
-Kerala University of Fisheries and Ocean Studies — 2020
+Kerala University of Fisheries and Ocean Studies
 
 **B.Sc. Physics**  
-University of Calicut — 2018
+University of Calicut
+
+## 📌 Current Focus
+
+I'm particularly interested in building practical geospatial workflows that connect:
+
+**Earth Observation → GIS → Analysis → Visualization → Decision Making**
+
+I'm also exploring opportunities in **marine/coastal remote sensing, environmental GIS, geospatial research and Earth observation applications**.
+
+## 🌐 Find Me
+
+- 💼 LinkedIn: [Abhijith Vadakkedath](https://www.linkedin.com/)
+- 📧 Email: vabhijith998@gmail.com
 
 ---
 
-## 🌱 Areas of Interest
-
-- Marine & Coastal Remote Sensing
-- Environmental GIS
-- Earth Observation
-- Coastal & Ocean Applications
-- Sustainable Development
-- Geospatial Data Science
-- GIS Visualization
-- Disaster & Environmental Monitoring
-
----
-
-## 📫 Connect With Me
-
-- **LinkedIn:** [Abhijith Vadakkedath](https://www.linkedin.com/)
-- **Email:** vabhijith998@gmail.com
-
----
-
-> *Exploring Earth through data, maps, and technology.* 🌍
+> 🌍 *Mapping the Earth, one dataset at a time.*
