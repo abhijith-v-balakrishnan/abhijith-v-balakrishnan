@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Abhijith Vadakkedath
+# Abhijith Vadakkedath
 
 🌍 **GIS Analyst | Remote Sensing | Earth Sciences | Geospatial Applications**
 
